@@ -1,12 +1,7 @@
 {
-  "name": "x",
+  "name": "aahes-login",
   "version": "1.0.0",
   "type": "module",
-  "description": "Signup backend for Vercel + MongoDB Atlas",
-  "main": "index.js",
-  "scripts": {
-    "start": "node api/signup.js"
-  },
   "dependencies": {
     "mongoose": "^8.19.2"
   }
